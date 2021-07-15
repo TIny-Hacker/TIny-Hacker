@@ -9,8 +9,7 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 ### MY CALCULATORS
 * TI-83
 * TI Voyage 200
-* TI-84 Plus SE
-* TI-84 Plus SE
+* TI-84 Plus SE (x2)
 * TI-84 Plus CE
 * TI-Nspire CX II-T CAS
 
