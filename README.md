@@ -22,5 +22,6 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&layout=compact&theme=dark&title_color=75a6fc)](https://github.com/anuraghazra/github-readme-stats)
 
 #### EVGA Associates Code
-<a href="https://www.evga.com/associates/default.aspx?associatecode=RBGKCTVMHCJ9031"><img src="https://www.evga.com/badge/associates/4600490.png"></a>
+If you're purchasing computer parts, use my [EVGA Associate Code](https://www.evga.com/peripherals/default.aspx?associatecode=RBGKCTVMHCJ9031) on evga.com for discounts! 
+
 
