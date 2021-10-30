@@ -6,6 +6,9 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 
 [Also Cemetech.](https://www.ceme.tech/u30499)
 
+#### EVGA Associates Code
+If you're purchasing computer parts, use my [EVGA Associate Code](https://www.evga.com/peripherals/default.aspx?associatecode=RBGKCTVMHCJ9031) on evga.com for discounts! 
+
 ### [MY CALCULATORS](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
 * TI-83
 * TI Voyage 200
@@ -20,8 +23,3 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 [![TIny-Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny-hacker&theme=dark&show_icons=true&layout=compact&title_color=75a6fc&icon_color=75a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&layout=compact&theme=dark&title_color=75a6fc)](https://github.com/anuraghazra/github-readme-stats)
-
-#### EVGA Associates Code
-If you're purchasing computer parts, use my [EVGA Associate Code](https://www.evga.com/peripherals/default.aspx?associatecode=RBGKCTVMHCJ9031) on evga.com for discounts! 
-
-
