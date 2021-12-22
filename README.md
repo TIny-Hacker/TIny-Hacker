@@ -6,9 +6,6 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 
 [Also Cemetech.](https://www.ceme.tech/u30499)
 
-#### EVGA Associates Code
-If you're purchasing computer parts, use my [EVGA Associate Code](https://www.evga.com/peripherals/default.aspx?associatecode=RBGKCTVMHCJ9031) on evga.com for discounts! 
-
 ### [MY CALCULATORS](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
 * TI-83
 * TI Voyage 200
