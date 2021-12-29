@@ -22,3 +22,9 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 [![TIny-Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny-hacker&theme=dark&show_icons=true&layout=compact&title_color=75a6fc&icon_color=75a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&layout=compact&theme=dark&title_color=75a6fc)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Socials
+
+[YouTube](https://youtube.com/tinyhackercalcs/)
+[Cemetech](https://www.ceme.tech/u30499)
+[TI-Planet](https://tiplanet.org/forum/memberlist.php?mode=viewprofile&u=253163)
