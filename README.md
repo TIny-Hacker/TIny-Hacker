@@ -6,14 +6,16 @@ I'm TIny_Hacker and I program calculators! I'm currently working on ~a super coo
 
 [Also Cemetech.](https://www.ceme.tech/u30499)
 
-### [MY CALCULATORS](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
+#### [MY CALCULATORS](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
 * TI-83
 * TI Voyage 200
 * TI-84 Plus SE (x2)
 * TI-84 Plus CE
 * TI-Nspire CX II-T CAS
+* TI-81
+* NumWorks N0110
 
-### Random Stats
+#### Random Stats
 
 ![](https://komarev.com/ghpvc/?username=tiny-hacker&color=75a6fc)
 
