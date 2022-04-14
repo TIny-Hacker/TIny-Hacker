@@ -3,15 +3,20 @@
 I'm TIny_Hacker and I program calculators! I mostly use TI-BASIC, though currently I'm learning C on my TI-84 + CE and I hope to learn more languages in the future. Occasionally I make things but usually I'm just lazy. Don't look at any of my code because it is absolutely horrible, have fun, and enjoy your stay! I like to make things with GIMP, and I also am a big fan of retro games and Pokemon Rom Hacks. If you're still reading down here, you should stop, because I don't have anything else to say. See you around!
 
 #### [My Current Calculator Collection](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
-* TI-83
-* TI Voyage 200
-* TI-84 Plus SE (x2)
-* TI-84 Plus CE
-* TI-Nspire CX II-T CAS
-* TI-81
-* NumWorks N0110
-* Elektronika MK-52
-* TI-92
+
+<details>
+<summary>(List of Calculators)</summary>
+<br>
+  <p>* TI-83</p>
+  <p>* TI Voyage 200</p>
+  <p>* TI-84 Plus SE (x2)</p>
+  <p>* TI-84 Plus CE</p>
+  <p>* TI-Nspire CX II-T CAS</p>
+  <p>* TI-81</p>
+  <p>* NumWorks N0110</p>
+  <p>* Elektronika MK-52</p>
+  <p>* TI-92</p>
+</details>
 
 #### Random Stats
 
