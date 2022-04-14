@@ -10,6 +10,8 @@ I'm TIny_Hacker and I program calculators! I mostly use TI-BASIC, though current
 * TI-Nspire CX II-T CAS
 * TI-81
 * NumWorks N0110
+* Elektronika MK-52
+* TI-92
 
 #### Random Stats
 
