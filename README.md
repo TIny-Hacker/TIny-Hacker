@@ -20,11 +20,11 @@ I'm TIny_Hacker and I program calculators! I started programming using mostly TI
 
 #### Random Stats
 
-![](https://komarev.com/ghpvc/?username=tiny-hacker&color=75a6fc)
+![](https://komarev.com/ghpvc/?username=tiny-hacker&color=2e3440)
 
-[![TIny-Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny-hacker&theme=dark&show_icons=true&layout=compact&title_color=75a6fc&icon_color=75a6ff)](https://github.com/anuraghazra/github-readme-stats)
+[![TIny-Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny-hacker&theme=nord&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&layout=compact&theme=dark&title_color=75a6fc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Socials
 
