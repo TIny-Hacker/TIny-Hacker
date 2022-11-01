@@ -6,17 +6,18 @@ I'm TIny_Hacker and I program calculators! I started programming in TI-BASIC, th
 
 <details>
 <summary>(List of Calculators)</summary>
-<br>
-  <p>• TI-83</p>
-  <p>• TI Voyage 200</p>
-  <p>• TI-84 Plus SE (x2)</p>
-  <p>• TI-84 Plus CE</p>
-  <p>• TI-Nspire CX II-T CAS</p>
-  <p>• TI-81</p>
-  <p>• NumWorks N0110</p>
-  <p>• Elektronika MK-52</p>
-  <p>• TI-92</p>
-  <p>• TI-83 PCEEP
+  <ul>
+    <li>TI-83</li>
+    <li>TI Voyage 200</li>
+    <li>TI-84 Plus SE (x2)</li>
+    <li>TI-84 Plus CE</li>
+    <li>TI-Nspire CX II-T CAS</li>
+    <li>TI-81</li>
+    <li>NumWorks N0110</li>
+    <li>Elektronika MK-52</li>
+    <li>TI-92</li>
+    <li>TI-83 PCEEP</li>
+  </ul>  
 </details>
 
 #### Random Stats
