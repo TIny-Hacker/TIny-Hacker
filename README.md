@@ -5,7 +5,7 @@ I'm TIny_Hacker and I program calculators! I started programming in TI-BASIC, th
 #### [My Current Calculator Collection](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
 
 <details>
-<summary>(List of Calculators)</summary>
+<summary>List of Calculators (Could be slightly outdated)</summary>
   <ul>
     <li>TI-83</li>
     <li>TI Voyage 200</li>
