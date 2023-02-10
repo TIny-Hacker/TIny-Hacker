@@ -4,22 +4,6 @@ I'm TIny_Hacker and I program calculators! I started programming in TI-BASIC, th
 
 #### [My Current Calculator Collection](https://calcs.tiplanet.org/mycalcs/profile.php?uid=117)
 
-<details>
-<summary>List of Calculators (Could be slightly outdated)</summary>
-  <ul>
-    <li>TI-83</li>
-    <li>TI Voyage 200</li>
-    <li>TI-84 Plus SE (x2)</li>
-    <li>TI-84 Plus CE</li>
-    <li>TI-Nspire CX II-T CAS</li>
-    <li>TI-81</li>
-    <li>NumWorks N0110</li>
-    <li>Elektronika MK-52</li>
-    <li>TI-92</li>
-    <li>TI-83 PCEEP</li>
-  </ul>  
-</details>
-
 #### Random Stats
 
 ![](https://komarev.com/ghpvc/?username=tiny-hacker&color=2e3440)
