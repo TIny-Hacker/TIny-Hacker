@@ -15,6 +15,7 @@ I'm TIny_Hacker and I program calculators! I started programming in TI-BASIC, th
 #### Socials
 
 * [YouTube](https://youtube.com/tinyhackercalcs/)
+* [Bluesky](tiniesthacker.bsky.app)
 * [Cemetech](https://www.ceme.tech/u30499)
 * [TI-Planet](https://tiplanet.org/forum/memberlist.php?mode=viewprofile&u=253163)
 * [MyCalcs](https://my.calcs.quest/u/117?ref=117)
