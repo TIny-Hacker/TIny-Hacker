@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm TIny_Hacker! Most of my projects use a mix of C and eZ80 assembly, though I've messed around with other languages when necessary. I also have a [YouTube channel](https://youtube.com/tinyhackercalcs/), where I sometimes post videos about calculators. Don't look at any of my code because it is absolutely horrible, have fun, and enjoy your stay!
+I'm TIny_Hacker! Most of my projects use a mix of C and eZ80 assembly, though I mess around with other languages when necessary. I also have a [YouTube channel](https://youtube.com/tinyhackercalcs/), where I sometimes post videos about calculators. Don't look at any of my code because it is absolutely horrible, have fun, and enjoy your stay!
 
 #### [My Current Calculator Collection](https://my.calcs.quest/u/117?ref=117)
 
