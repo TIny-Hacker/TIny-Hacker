@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm TIny_Hacker, and I make calculator things. I also have a [YouTube channel](https://youtube.com/tinyhackercalcs/), where I sometimes make videos.
+I'm TIny_Hacker, and I make calculator things. I also have a [YouTube channel](https://youtube.com/tinyhackercalcs/), where I sometimes post videos.
 
 #### Socials
 
