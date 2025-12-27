@@ -10,6 +10,7 @@ I'm TIny_Hacker, and I make calculator things. I also have a [YouTube channel](h
 * [Cemetech](https://www.ceme.tech/u30499)
 * [TI-Planet](https://tiplanet.org/forum/memberlist.php?mode=viewprofile&u=253163)
 * [MyCalcs](https://my.calcs.quest/u/117?ref=117)
+<!-- Commented this out since readme stats are down, might bring it back later
 
 #### Random Stats
 
@@ -18,3 +19,4 @@ I'm TIny_Hacker, and I make calculator things. I also have a [YouTube channel](h
 [![TIny-Hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny-hacker&theme=nord&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-hacker&count_private=true&exclude_repo=TI-Planet-Riddles-2021&hide=pascal,SourcePawn&langs_count=10&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+-->
