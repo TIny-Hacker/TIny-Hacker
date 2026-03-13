@@ -7,7 +7,7 @@ I'm TIny_Hacker, and I make calculator things. I also have a [YouTube channel](h
 * [Website](https://tiny-hacker.github.io)
 * [YouTube](https://youtube.com/tinyhackercalcs/)
 * [Bluesky](https://bsky.app/profile/tiniesthacker.bsky.social)
-* [Cemetech](https://www.ceme.tech/u30499)
+* [Cemetech](https://www.cemetech.net/users/TIny_Hacker)
 * [TI-Planet](https://tiplanet.org/forum/memberlist.php?mode=viewprofile&u=253163)
 * [MyCalcs](https://my.calcs.quest/u/117?ref=117)
 <!-- Commented this out since readme stats are down, might bring it back later
